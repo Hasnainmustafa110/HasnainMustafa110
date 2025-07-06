@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasnain Mustafa</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img src="[https://media.giphy.com/media/K5kfQEx...](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXM3azZzcWhnZzNvN2ZpYjVsdHJvdTg0cmkxYmozN2l3aWV4eHBraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)"  alt="">
 
 - 🔭 I’m currently working on **Flutter Development**
 
